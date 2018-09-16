@@ -1,3 +1,4 @@
+
 Write down a list of English words that you find difficult from class readings. 
 
 English|Chinese|Note
@@ -8,4 +9,7 @@ parameter||
 default||
 directory||
 affiliate||
+mathmatics||
+merge||
 index||
+
