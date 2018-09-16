@@ -6,11 +6,12 @@ English|Chinese|Note
 def||
 abc||
 repository||
-Statistical||
+statistical||
 parameter||
 default||
 directory||
 affiliate||
+population||
 restart||
 mathmatics||
 merge||
