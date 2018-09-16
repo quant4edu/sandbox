@@ -4,6 +4,7 @@ English|Chinese|Note
 ---|---|---
 repository||
 Statistical||
+parameter||
 default||
 directory||
 affiliate||
