@@ -27,7 +27,7 @@ car
 conflict
 
 # P2
-word2
+dim
 
 # P1
 word1
@@ -36,7 +36,7 @@ word1
 world
 
 # P4
-
+people
 
 # P5
 high
