@@ -24,10 +24,5 @@ buy
 # Qiuxia
 car
 
-
-
-
-
-
 # Wen
 conflict
